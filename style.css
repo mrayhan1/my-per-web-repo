@@ -51,6 +51,7 @@ nav ul li{
 a{
     text-decoration: none;
     padding: 10px;
+    color: black;
 }
 
 nav ul  li a:hover{
@@ -116,7 +117,7 @@ display: block;
 
 .copy_right_section{
 height: 50px;
-background-color:#5d4289;
+background-color:rgb(60, 104, 180);
 text-align: center;
 font-size: 25px;
 font-variant: small-caps;
